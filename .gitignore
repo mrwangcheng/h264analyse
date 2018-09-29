@@ -1,0 +1,6 @@
+Debug/
+Release/
+ipch/
+*.sdf
+SpecialVH264.v12.suo
+SpecialVH264.opensdf
